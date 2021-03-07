@@ -8,6 +8,10 @@
 
 # ✉ About the project
 
+A project that uses the Github API, to create users cards, with name or username, avatar, bio, followers, etc.
+
+---
+
 # 💻 What technologies were used?
 
 <ol>
@@ -17,6 +21,8 @@
     <li>Github API</li>
 </ol>
 
+ ---
+
 # ❕ How to test it
 
-[Click Here]()
+[Click Here](https://arthur-lage-github-profiles.vercel.app)
