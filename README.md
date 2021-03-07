@@ -1,6 +1,10 @@
 <h1 align="center"><img src="https://github.com/arthur-lage/github-profiles/blob/main/assets/favicon.png" /></h1>
 
+---
+
 ![Gif](https://github.com/arthur-lage/github-profiles/blob/main/assets/2021-03-07%2020-39-37.gif)
+
+---
 
 ![Imagem 1](https://github.com/arthur-lage/github-profiles/blob/main/assets/Screenshot_1.png)
 
@@ -25,4 +29,4 @@ A project that uses the Github API, to create users cards, with name or username
 
 # ❕ How to test it
 
-[Click Here](https://arthur-lage-github-profiles.vercel.app)
+[Click Here](https://arthur-lage-github-profiles.vercel.app) to go to the app (Hosted on vercel.com)
